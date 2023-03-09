@@ -10,7 +10,7 @@ import java.awt.*;
 import java.util.Arrays;
 import java.util.List;
 
-public class EMailApplication {
+public class EMail {
     public static void main(String[] args) throws InterruptedException {
         UserController userController = new UserController();
         EMailController emailController = new EMailController();
